@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan Anh</h1>
-<h3 align="center">A passionate fullstack developer from VietNam</h3>
+<h3 align="center">A passionate Web Developer from VietNam</h3>
 💫About Me :
 🔭 I’m currently working on
 Fullstack web applications using MERN Stack and building real-world projects to strengthen my frontend & backend skills.
